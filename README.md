@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdmubassir
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...github
 - 💞️ I’m looking to collaborate on ...Frontend projects
 - 📫 How to reach me ...mdmubassir02@gmail.com
 
